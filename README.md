@@ -1,5 +1,5 @@
 # mahjong
-2020第十四届中国计算机博弈锦标赛下饭麻将（fanfou_mahjong）基础上整合改进的完整实验
+2020年中国大学生计算机博弈大赛暨第十四届中国计算机博弈锦标赛下饭麻将（冠军）fanfou_mahjong基础上整合改进的完整实验
 # first commit 4robot
 在个人电脑上实现的完整对局，采用随机出牌算法的4个robot进行完整对局，吃碰杠策略沿用下饭麻将（fanfou_mahjong）的设计，提高游戏进程，平均每10局胡4局
 # second commit 模拟 and 完整实验
