@@ -1,0 +1,7 @@
+{
+    "url": "http://121.201.76.230:9002/Pubilc_MahJong",
+//    "url": "http://100.64.15.28:9002/Pubilc_MahJong",       // AI服务器地址
+    "sec_thinking": 15,
+    "sec_attack": 15,
+    "card_fixed": true
+}

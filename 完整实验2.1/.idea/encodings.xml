@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-16">
+    <file url="file://$PROJECT_DIR$/ai-demo/THP_DT.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ai-demo/THP_Poker_Table.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ai-demo/src/init_dazhong_majiang.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ai-demo/src/init_no_state.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ai-demo/麻将三缺一.py" charset="UTF-8" />
+    <file url="PROJECT" charset="GBK" />
+  </component>
+</project>
